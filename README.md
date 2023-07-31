@@ -18,6 +18,8 @@ Description about ComCom project
 [<img src="https://img.youtube.com/vi/hpHpoA0m6mQ/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/hpHpoA0m6mQ)
 
+<br/>
+
 ## Key Features.
 
 - **Register/find password with email verification (using node-mailer)**
@@ -49,6 +51,13 @@ Description about ComCom project
     
 [<img src="https://img.youtube.com/vi/IwiRxRBi_c4/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/IwiRxRBi_c4)
+
+- **Point system where users can earn points through engagement & Giving points as a gift between users**
+    
+[<img src="https://img.youtube.com/vi/NtY__dOZ9A4/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/NtY__dOZ9A4)
+
+<br/>
 
 -----
 
@@ -170,7 +179,3 @@ const alarms = [...alarms, ...userAlarms]
         
 await DB.UserAlarm.bulkCreate(alarms, { transaction })
 ```
-- **Point system where users can earn points through engagement & Giving points as a gift between users**
-    
-[<img src="https://img.youtube.com/vi/NtY__dOZ9A4/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/NtY__dOZ9A4)
